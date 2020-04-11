@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Isso é um header
 
 ## Isso é um subheader
@@ -56,3 +57,7 @@ Explicação de como começar a contribuir com o projeto.
 MIT, GNU etc
 
 [choosealicense.com]()
+=======
+# aceleradev-hello-world
+Projeto do programa aceleradev data science
+>>>>>>> origin/master
