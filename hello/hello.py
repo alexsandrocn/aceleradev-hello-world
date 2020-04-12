@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+def say_hello_git():
+    print("Hello, Git")
+
 def say_hello_python():
     print("Hello, world!")
 
